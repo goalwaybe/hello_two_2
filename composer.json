@@ -1,6 +1,6 @@
 {
     "name": "goalwaybe/hello_two_2",
-    "description": "an example for composer",
+    "description": "example",
     "type": "project",
     "license": "MIT",
     "authors": [
@@ -10,5 +10,10 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+	"autoload":{
+		"psr-4":{
+			"hello_two_2\\":"hello_src"
+		}
+	}
 }
