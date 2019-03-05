@@ -1,0 +1,14 @@
+{
+    "name": "goalwaybe/hello_two_2",
+    "description": "an example for composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ultron",
+            "email": "2548880572@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
