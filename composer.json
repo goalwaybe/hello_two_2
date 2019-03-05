@@ -13,7 +13,7 @@
     "require": {},
 	"autoload":{
 		"psr-4":{
-			"hello_two_2\\":"hello_src"
+			"hello_src\\":"hello_src"
 		}
 	}
 }
